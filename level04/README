@@ -1,0 +1,5 @@
+Run the exploit with:
+
+python3 lv04sol.py OO=<0x00-0xff> 
+
+#rbp bruteforce
